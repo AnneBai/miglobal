@@ -1,5 +1,6 @@
 # miglobal
 这是我的静态网页练习--Mi Global首页
+预览地址: [https://annebai.github.io/miglobal](https://annebai.github.io/miglobal/)
 
 ###主要知识点:
 + div盒模型布局--显示/定位/对齐/浮动/去除浮动等
